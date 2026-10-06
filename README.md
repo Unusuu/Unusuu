@@ -6,7 +6,7 @@
 
 <h3 align="center">Game Developer & Software Developer 🎮</h3>
 
-- 🎮 Currently working on **DarkOfSea** and **3D FPS Parkour Game**
+- 🎮 Currently working on **DarkOfSea**
 - 🌱 Learning game mechanics with **Unity** and **C#**
 - 📍 Türkiye
 - 📫 How to reach me: [ibrahimunal0066@gmail.com](mailto:ibrahimunal0066@gmail.com)
