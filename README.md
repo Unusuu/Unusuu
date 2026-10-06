@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=cs,c,cpp,dotnet,unity,dart,flutter,html,css,js,mysql,git,github,vscode,visualstudio,windows&perline=16" alt="Languages and tools" />
 </p>
 
+<!-- GitHub Stats (gizli - acmak icin bu yorum satirlarini sil)
 ### GitHub Stats:
 
 <p align="center">
@@ -35,3 +36,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Unusuu&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
+-->
