@@ -24,3 +24,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,c,cpp,dotnet,unity,dart,flutter,html,css,js,mysql,git,github,vscode,visualstudio,windows&perline=16" alt="Languages and tools" />
 </p>
+
+### GitHub Stats:
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Unusuu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unusuu&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Unusuu&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
